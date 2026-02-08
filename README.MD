@@ -95,7 +95,7 @@ npm run dev
 
 ---
 
-## License
+
 
 This project is for learning and demonstration purposes.
 
